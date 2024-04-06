@@ -1,6 +1,6 @@
 {
     "name": "sargis/tempconv",
-    "description": "Temprature converter. Converts C to F and vice versa",
+    "description": "Temperature converter. Converts C to F and vice versa",
     "type": "library",
     "license": "MIT",
     "autoload": {
